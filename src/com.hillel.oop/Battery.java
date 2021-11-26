@@ -24,7 +24,7 @@ public abstract class Battery{
     public String getName() {
         return name;
     }
-
+	//comment from main branch
     public int getCapacity() {
         return capacity;
     }
