@@ -21,6 +21,7 @@ public abstract class Battery{
         return dimension.getHeight();
     }
 
+//comment from test_2 branch
     public String getName() {
         return name;
     }
