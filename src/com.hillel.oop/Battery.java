@@ -28,6 +28,7 @@ public abstract class Battery{
     public int getCapacity() {
         return capacity;
     }
-
+	
+// comment from test branch
     public abstract int getCharge(int value);
 }
